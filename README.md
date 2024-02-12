@@ -70,7 +70,7 @@ To run the cucumber tests with this IDE you'll have to open an extra terminal
 
  - IntelliJ should have a terminal option on the bottom right, for VSCode do Terminal -> New Terminal
 
- - Run the command: '''./gradlew acceptanceTest'''
+ - Run the command: ```./gradlew acceptanceTest```
 
  - The test should fail (with 2 steps passing and 1 failing), if this doesn't heppen, check for errors and try to debug it. If you need any help, contact us.
 
@@ -78,12 +78,12 @@ To run the cucumber tests with this IDE you'll have to open an extra terminal
 
  - Go to the projects folder (should be the folder called "test-cucumber")
 
- - Run the command: '''./gradlew acceptanceTest'''
+ - Run the command: ```./gradlew acceptanceTest```
 
  - The test should fail (with 2 steps passing and 1 failing), if this doesn't heppen, check for errors and try to debug it. If you need any help, contact us.
 
 
 ### NOTE:
-When running through the terminal, if you're using mac's terminal or powershell, use '''./gradlew''' to run the gradle command, if using cmd, simply use '''gradlew'''
+When running through the terminal, if you're using mac's terminal or powershell, use ```./gradlew``` to run the gradle command, if using cmd, simply use ```gradlew```
 
 Feel free to try and make the test pass :) 
