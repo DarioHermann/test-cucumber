@@ -83,4 +83,7 @@ To run the cucumber tests with this IDE you'll have to open an extra terminal
  - The test should fail (with 2 steps passing and 1 failing), if this doesn't heppen, check for errors and try to debug it. If you need any help, contact us.
 
 
+### NOTE:
+When running through the terminal, if you're using mac's terminal or powershell, use '''./gradlew''' to run the gradle command, if using cmd, simply use '''gradlew'''
+
 Feel free to try and make the test pass :) 
